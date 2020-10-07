@@ -112,6 +112,11 @@
   font-family: "Bree Serif", serif;
 }
 
+
+.box:hover{
+  transform: translateY(-20px);
+}
+
 /* Client Section  */
 .client-section {
   position: relative;
@@ -193,6 +198,11 @@
   /* font-weight: bold; */
   cursor: pointer;
 }
+
+.btn:hover{
+  transform: translateY(-10px); 
+}
+
 .center {
   text-align: center;
 }
